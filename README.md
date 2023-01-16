@@ -74,12 +74,11 @@
   <a title="kambamakhil25@gmail.com" href="mailto:kambamakhil25@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/7993558725" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil0425&show_icons=true&locale=en&layout=compact" alt="Akhil0425" /></p>
+<h2>Github Stats</h2>
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=midnight-purple" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil0425&show_icons=true&locale=en&layout=compact" alt="Akhil0425" /></p>
 </div>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akhil0425&theme=rogue" alt="activitygraph" /> </p>
