@@ -73,9 +73,8 @@
   <a href="https://www.linkedin.com/in/25akhil" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="kambamakhil25@gmail.com" href="mailto:kambamakhil25@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
   <a href="https://wa.me/7993558725" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-<!-- <a href="https://twitter.com/madavanaru?s=20&t=casGFqKvivZrUiWdPyUosQ" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a> -->
 </p>
-<h2>📊  Github Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil0425&show_icons=true&locale=en&layout=compact" alt="Akhil0425" /></p>
 <br/>
 
 <div>
