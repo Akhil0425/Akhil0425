@@ -77,11 +77,10 @@
 <h2>Github Stats</h2>
 <br/>
 <div>
-  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a>
- <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="50%" alt="Akhil's github stats" /></a>
+ <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" width="40%" /></a>
 </div>
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akhil0425&theme=rogue" alt="activitygraph" /> </p>
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil0425&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil0425&theme=tokyonight" alt="summarycard"/> </p>
