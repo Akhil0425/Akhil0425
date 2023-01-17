@@ -76,9 +76,9 @@
 </p>
 <h2>Github Stats</h2>
 <br/>
-
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akhil0425&show_icons=true&locale=en&layout=compact" alt="Akhil0425" /></p>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=midnight-purple" />
 </div>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akhil0425&theme=rogue" alt="activitygraph" /> </p>
