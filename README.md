@@ -84,8 +84,6 @@
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akhil0425&theme=rogue" alt="activitygraph" /> </p>
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil0425&theme=vision-friendly-dark" alt=""/></p>
-<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=karthikreddy552&no-frame=true" alt=""/></p> -->
-<!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=karthikreddy552&no-frame=true" alt=""/></p> -->
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil0425&theme=tokyonight" alt="summarycard"/> </p>
 
 <hr />
@@ -94,7 +92,3 @@
  Show some ❤ by starring some of the repositories!
 </h3>
 <br>
-<!-- <h3 align="center"> 
-  Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/karthikreddy552/count.svg" />
-</h3> -->
