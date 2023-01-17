@@ -77,7 +77,8 @@
 <h2>Github Stats</h2>
 <br/>
 <div>
-  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a> | <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Akhil's github stats" /></a>
+ <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Akhil0425&theme=rogue" alt="activitygraph" /> </p>
