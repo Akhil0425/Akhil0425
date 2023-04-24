@@ -15,7 +15,7 @@
        height="200px" width="auto" align="right"
       />
 
-- 🙋‍♂ All about me is at *[My Website](https://akhil04portfolio.netlify.app/)*
+- 🙋‍♂ All about me is at *[My Website](https://Akhil0425.github.io)*
 
 - 💓 I love designing websites and coding.
 
